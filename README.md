@@ -15,10 +15,16 @@
 <div id="header" align="center">
   <img src="https://github.com/snipe/animated-gifs/blob/master/Techy/no-idea-what-im-doing.gif" width="500"/>
 </div>
-
 <br />
 
-### Languages and tools
+- :hatching_chick: &nbsp; Learn and discover something new everyday 🔥
+
+<div id="header" align="center">
+  <img src="https://github.com/snipe/animated-gifs/blob/master/Techy/BugFixing.gif" width="500"/>
+</div>
+<br />
+
+### Languages and tools :bulb: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -39,6 +45,31 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
 </div>
 
+### Quotes I truly adore
+
+<div id="header" align="center">
+  <i>
+    <h3>"I'm a slow learner, it's true. But I learn."</h3>
+    - Sansa Stark
+  </i>
+</div>
+<br />
+<div id="header" align="center">
+  <img src="https://github.com/snipe/animated-gifs/blob/master/Visual-humour/DalaiLasers.gif" width="500"/>
+</div>
+<br />
+
+<div id="header" align="center">
+  <i>
+    <h3>"Everybody is Somebody, even a Nobody."</h3>
+    - Rafiki
+  </i>
+</div>
+<br />
+<div id="header" align="center">
+  <img src="https://github.com/snipe/animated-gifs/blob/master/Techy/IT-Crowd.gif" width="500"/>
+</div>
+<br />
 
 <!--
 **gitafitria/gitafitria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
